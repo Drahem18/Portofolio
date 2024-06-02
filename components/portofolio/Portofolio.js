@@ -10,7 +10,7 @@ function Portofolio() {
       title: "Fashion Store App",
       descreption: `This modern e-commerce website, built using Next.js, showcases a stylish and user-friendly interface for a clothing store. The platform leverages the power of the Context API to manage global state, ensuring a seamless and responsive user experience.\n
         The site features beautifully designed product cards that dynamically display clothing items, providing users with detailed views and easy navigation. Whether browsing the latest collections or searching for specific items, the intuitive layout and smooth transitions make shopping a pleasure.`,
-      link: "https://fashion-website-eta.vercel.app/",
+      link: "https://fashion-store-plum.vercel.app/",
       image: "/fashionStore.png",
     },
     {
