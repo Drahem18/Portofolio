@@ -1,0 +1,13 @@
+.hr {
+  border-top: 1px solid rgb(107 114 128);
+}
+.flex1 {
+  flex: 1;
+}
+.flex2 {
+  flex: 3;
+}
+.orange {
+  background-color: orange;
+  color: black;
+}

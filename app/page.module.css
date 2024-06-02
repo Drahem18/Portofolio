@@ -1,0 +1,7 @@
+.background {
+  background: linear-gradient(180deg, #0c0c11, #111132);
+}
+.scroll-container {
+  height: 100vh; /* Or adjust height based on content */
+  overflow-y: scroll; /* Ensure scrollable content */
+}
