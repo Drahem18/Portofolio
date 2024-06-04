@@ -87,7 +87,7 @@ function Hero() {
 
         <motion.div className="relative md:w-1/3 h-full" variants={variants}>
           <Image
-            src={"/image.jpg"}
+            src={"/image.png"}
             priority
             className="right-10"
             fill
