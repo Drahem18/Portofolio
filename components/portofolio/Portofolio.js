@@ -35,7 +35,7 @@ function Portofolio() {
 
   return (
     <div ref={ref} className="relative z-10 md:px-36">
-      <div className="sticky top-0 left-0 pt-12 text-center orange text-4xl ">
+      <div className="sticky top-0 left-0 pt-12 text-center orange text-4xl z-50 ">
         <h1>Featured Work</h1>
         <motion.div
           style={{ scaleX }}
