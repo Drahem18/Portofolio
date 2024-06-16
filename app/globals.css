@@ -57,8 +57,10 @@ textarea:focus {
   outline: 0;
 }
 
-.animate {
-  animation: MoveUpDown 3s ease-in-out infinite;
+@media only screen and (min-width: 768px) {
+  .animate {
+    animation: MoveUpDown 3s ease-in-out infinite;
+  }
 }
 
 @keyframes MoveUpDown {

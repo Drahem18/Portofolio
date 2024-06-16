@@ -34,9 +34,9 @@ function Hero() {
   return (
     <div className="h-full overflow-hidden">
       <NavBar />
-      <div className="h-full flex justify-between md:items-center flex-col md:flex-row md:px-36 overflow-hidden">
+      <div className=" h-full flex justify-around md:justify-between items-center flex-col md:flex-row md:px-36 overflow-hidden">
         <motion.div
-          className="h-full md:w-1/2 flex justify-center flex-col gap-10"
+          className=" md:w-1/2 flex justify-center flex-col gap-10"
           variants={variants}
           initial="initial"
           animate="animate"
@@ -86,7 +86,7 @@ function Hero() {
         </motion.div>
 
         <motion.div
-          className="relative md:w-1/4 h-[50%] rounded-full overflow-hidden animate flex items-center justify-center"
+          className="relative w-[80%] md:w-1/4 h-[50%] rounded-full overflow-hidden animate flex items-center justify-center"
           variants={variants}
         >
           <Image

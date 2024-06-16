@@ -32,7 +32,7 @@ const itemVAriants = {
 };
 
 function Links() {
-  const items = ["Homepage", "Services", "Portofolio", "Contact", "About"];
+  const items = ["Homepage", "Services", "Portofolio", "Contact"];
   return (
     <motion.div
       className="flex flex-col w-full h-full items-center justify-center gap-5 z-50"

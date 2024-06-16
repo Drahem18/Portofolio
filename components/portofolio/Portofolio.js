@@ -8,15 +8,14 @@ function Portofolio() {
     {
       id: 1,
       title: "Fashion Store App",
-      descreption: `This modern e-commerce website, built using Next.js, showcases a stylish and user-friendly interface for a clothing store. The platform leverages the power of the Context API to manage global state, ensuring a seamless and responsive user experience.\n
-        The site features beautifully designed product cards that dynamically display clothing items, providing users with detailed views and easy navigation. Whether browsing the latest collections or searching for specific items, the intuitive layout and smooth transitions make shopping a pleasure.`,
+      descreption: `This modern e-commerce website, built using Next.js, showcases a stylish and user-friendly interface for a clothing store. The platform leverages the power of the Context API to manage global state, ensuring a seamless and responsive user experience.`,
       link: "https://fashion-store-plum.vercel.app/",
       image: "/fashionStore.png",
     },
     {
       id: 2,
       title: "Cinema Website ",
-      descreption: `This engaging cinema website, built with React and Swiper.js, provides an immersive platform for viewing movie trailers. Utilizing React for efficient state management and Swiper.js for responsive carousels, the site offers smooth navigation and high-quality video previews. It's designed to be user-friendly, allowing movie enthusiasts to explore the latest trailers effortlessly.`,
+      descreption: `This engaging cinema website, built with React and Swiper.js, provides an immersive platform for viewing movie trailers. Utilizing React for efficient state management and Swiper.js for responsive carousels, the site offers smooth navigation and high-quality video previews.`,
       link: "https://main--cinema1112.netlify.app/",
       image: "/cinema.png",
     },
